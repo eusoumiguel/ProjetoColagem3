@@ -1,0 +1,72 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+.copy_right_footer {
+    position: fixed;
+    bottom:0;
+    width:100%;
+    text-align:center;
+    background-color: blueviolet;
+    color:blue;
+    
+    font-size: larger;
+    font-family: fantasy;
+    
+}
+#camera{
+    background-color: rgba(75, 221, 12, 0.866);
+    
+}
+h1{
+    color: chocolate;
+    font-family:cursive;
+}
+#btnClick{
+    color:rgba(73, 193, 43, 0.918);
+    background-color:blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+h3{
+    color:rgba(73, 193, 43, 0.918);
+    font-family: 'Courier New', Courier, monospace;
+}
+#oi{ 
+ color:rgba(73, 193, 43, 0.918);
+ font-family: sans-serif;
+}
+#hello{
+    color:rgba(73, 193, 43, 0.918);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#hola{
+    color:rgba(73, 193, 43, 0.918);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#bonjur{
+    color:rgba(73, 193, 43, 0.918);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+#result{
+    background-color: rgba(75, 221, 12, 0.866);
+}
+img :hover{
+    border-radius: 140px;
+}
