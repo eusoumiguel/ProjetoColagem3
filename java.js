@@ -26,8 +26,6 @@ function speak(){
     speak_data = "tire minha selfie";
     var utterThis = new SpeechSynthesisUtterance(speak_data);
     synth.speak(utterThis);
-}
-
     setTimeout(function()
     { 
         img_id = "selfie2";
@@ -37,6 +35,9 @@ function speak(){
         synth.speak(utterThis);
         
     }, 10000);
+}
+
+    
 
     function take_snapshot(){
 
